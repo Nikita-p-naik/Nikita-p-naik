@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Naik</h1>
 <h3 align="center">👩‍💻 Data Analyst | Aspiring Data Scientist</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif"/>
+<img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif"/>
 
 - 🔭 I’m currently working on [Time series Forecasting](https://github.com/Nikita-p-naik/ML-Projects)
 
