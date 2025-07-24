@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **naikpnikita28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17RwIqQ7T3XHtGzmnW7BiSN1ZaTEhDJhD/view?usp=drive_link](https://drive.google.com/file/d/17RwIqQ7T3XHtGzmnW7BiSN1ZaTEhDJhD/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1meh__ZcEck8ZjxR3b5L80FDwNhfphaDZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
